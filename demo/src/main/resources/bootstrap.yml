@@ -6,5 +6,5 @@ spring:
       server:8888
         git:
 #          uri: file://${HOME}/config-repo
-          uri: https://github.com/Djkmr/POC-Config-server.git
+          uri: https://github.com/Djkmr/config-server-POC-properties.git
           searchPaths: server-config
